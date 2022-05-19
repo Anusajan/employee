@@ -4,11 +4,12 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import 'bootstrap/dist/js/bootstrap.bundle.min.js';
 import './App.css';
 import Addemployee from './component/Addemployee';
+import Searchemp from './component/Searchemp';
 
 function App() {
   return (
     <div>
-      <Addemployee />
+      <Searchemp />
     </div>
     
   );
